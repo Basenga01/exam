@@ -30,7 +30,6 @@ export function Counter() {
         setStep(step)
     }
 
-
     return <div className={styles.container}>
     <div className={styles.countContainer}>
         <div className={styles.buttonContainer}>
